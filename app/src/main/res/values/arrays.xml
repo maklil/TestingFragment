@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="pieces">
+        <item>Chess Piece - King</item>
+        <item>Chess Piece - Queen</item>
+        <item>Chess Piece - Bishop</item>
+        <item>Chess Piece - Knight</item>
+        <item>Chess Piece - Rook</item>
+        <item>Chess Piece - Pawn</item>
+
+    </string-array>
+
+
+    <string-array name="descriptions">
+        <item>The King moves exactly one vacant square in any direction forward The King moves exactly one vacant square in any direction forward </item>
+        <item>The queen moves any number of vacant squares in any direction : forwards, backwards.. The queen moves any number of vacant squares in any direction : forwards, backwards.. </item>
+        <item>The bishop moves any number of vacant squares diagonally in a straight line The bishop moves any number of vacant squares diagonally in a straight line </item>
+        <item>The knight moves on an extended diagonal from one corner of any 2x3 rectangleThe knight moves on an extended diagonal from one corner of any 2x3 rectangle</item>
+        <item>The rook moves any number of vacant squares forwards, backwards, left or right The rook moves any number of vacant squares forwards, backwards, left or right</item>
+        <item>The pawn moves forward exactly one space, or optionally, two spaces when on its...</item>
+    </string-array>
+</resources>
